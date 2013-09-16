@@ -1,0 +1,87 @@
+
+----------------------------------------------------------------------  
+ WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   MARKMONITOR INC 
+Registrant:  GOOGLE INC.
+
+
+    Domain Name:		GOOGLE.CD
+    Creation Date:		01-Oct-2006 00:00:00
+    Expiration Date:	01-Oct-2013 00:00:00
+    Domain Status:		OK
+    Domain Status:		CLIENT UPDATE PROHIBITED
+    Domain Status:		CLIENT TRANSFER PROHIBITED
+    Domain Status:		CLIENT DELETE PROHIBITED
+
+
+    Owner/Main Contact:
+
+        Name:           GOOGLE INC. (CD21236T)        
+        Registered Address(line1):	1600 AMPHITHEATRE PARKWAY
+        Registered Address(line2):	
+        Registered Address(line3):	
+        Registered State:		CA
+        Registered Country:		US
+        Registered Postalcode:	94043
+
+
+
+    Administrative Contact:
+          
+        Name:           GOOGLE INC. (CD21236T)        
+        Registered Address(line1):	1600 AMPHITHEATRE PARKWAY
+        Registered Address(line2):	
+        Registered Address(line3):	
+        Registered State:		CA
+        Registered Country:		US
+        Registered Postalcode:	94043
+
+
+
+    Technical Contact:
+        
+        Name:           GOOGLE INC. (CD21236T)        
+        Registered Address(line1):	1600 AMPHITHEATRE PARKWAY
+        Registered Address(line2):	
+        Registered Address(line3):	
+        Registered State:		CA
+        Registered Country:		US
+        Registered Postalcode:	94043
+
+        Telephone:			+1.6502530000
+        Facsimile:			+1.6506188571  
+        EMAIL:				dns-admin@google.com
+
+
+
+    Billing Contact:
+          
+        Name:           MARKMONITOR (CD10789T)        
+        Registered Address(line1):	391 N. ANCESTOR PL.
+        Registered Address(line2):	
+        Registered Address(line3): 	
+        Registered State:		ID
+        Registered Country:		US
+        Registered Postalcode:	83704
+
+
+
+    Name Servers:
+        NS1.GOOGLE.COM
+        NS2.GOOGLE.COM
+        NS3.GOOGLE.COM
+        NS4.GOOGLE.COM
+
+
+         
+
+
+
+
+
+
+

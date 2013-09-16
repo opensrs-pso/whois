@@ -1,0 +1,73 @@
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names we have registered for
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in 
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Domain ID:CNIC-DO592232
+Domain Name:XXX.HU.COM
+Created On:27-Aug-2008 23:18:29 UTC
+Last Updated On:03-Jul-2012 00:15:58 UTC
+Expiration Date:27-Aug-2013 23:59:59 UTC
+Status:TRANSFER PROHIBITED
+Registrant ID:37300766
+Registrant Name:DIANAMIC ABRASIVE PRODUCTS INC
+Registrant Organization:DIANAMIC ABRASIVE PRODUCTS INC
+Registrant Street1:2566 INDUSTRIAL ROW DRIVE
+Registrant City:TROY
+Registrant State/Province:MI
+Registrant Postal Code:48084
+Registrant Country:US
+Registrant Phone:+1.248280118
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:37300766
+Admin Name:DIANAMIC ABRASIVE PRODUCTS INC
+Admin Organization:DIANAMIC ABRASIVE PRODUCTS INC
+Admin Street1:2566 INDUSTRIAL ROW DRIVE
+Admin City:TROY
+Admin State/Province:MI
+Admin Postal Code:48084
+Admin Country:US
+Admin Phone:+1.248280118
+Admin Email:no.valid.email@worldnic.com
+Tech ID:37300766
+Tech Name:DIANAMIC ABRASIVE PRODUCTS INC
+Tech Organization:DIANAMIC ABRASIVE PRODUCTS INC
+Tech Street1:2566 INDUSTRIAL ROW DRIVE
+Tech City:TROY
+Tech State/Province:MI
+Tech Postal Code:48084
+Tech Country:US
+Tech Phone:+1.248280118
+Tech Email:no.valid.email@worldnic.com
+Billing ID:37300767
+Billing Name:George Collins
+Billing Organization:Dianamic
+Billing Street1:2566 INDUSTRIAL ROW DRIVE
+Billing City:TROY
+Billing State/Province:MI
+Billing Postal Code:48084
+Billing Country:US
+Billing Phone:+1.2482801185
+Billing FAX:+1.2482802733
+Billing Email:gcollins@dianamic.com
+Sponsoring Registrar ID:H292913
+Sponsoring Registrar IANA ID:2
+Sponsoring Registrar Organization:Network Solutions LLC
+Sponsoring Registrar Street1:12808 Gran Bay Parkway West
+Sponsoring Registrar City:Jacksonville
+Sponsoring Registrar State/Province:FL
+Sponsoring Registrar Postal Code:32258
+Sponsoring Registrar Country:US
+Sponsoring Registrar Phone:+1.9046806600
+Sponsoring Registrar FAX:+1.9048800350
+Sponsoring Registrar Website:http://www.networksolutions.com/
+Name Server:NS27.WORLDNIC.COM
+Name Server:NS28.WORLDNIC.COM
+DNSSEC:Unsigned
+
+

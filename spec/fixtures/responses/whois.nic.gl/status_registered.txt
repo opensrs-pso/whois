@@ -1,0 +1,32 @@
+
+Domain Information
+Query: google.gl
+Status: Delegated
+Created: 11 Mar 2003
+Modified: 05 Dec 2012
+Expires: 01 Jan 2014
+Name Servers:
+    ns1.google.com
+    ns2.google.com
+
+Registrar Information
+Registrar Name: MarkMonitor
+Registration URL: http://www.markmonitor.com
+Address: 391 N Ancestor Place
+Boise, ID 83704 US
+Country: US
+Customer Service Contact: Matt Serlin
+Customer Service Email: ccops AT markmonitor DOT com
+
+
+
+
+Registrant:
+Name: Google Inc.
+Address:
+	1600 Amphitheatre Parkway
+	Mountain View, CA 94043
+	US
+Email Address: dns-admin AT google DOT com
+Phone Number: +1 6303300100
+

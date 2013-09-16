@@ -1,0 +1,68 @@
+#domain
+  should: %s == "google.eu"
+
+#domain_id
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+
+#status
+  should: %s == :registered
+
+#available?
+  should: %s == false
+
+#registered?
+  should: %s == true
+
+
+#created_on
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+#updated_on
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+#expires_on
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+
+#registrar
+  should: %s CLASS(registrar)
+  should: %s.id           == nil
+  should: %s.name         == "MarkMonitor Inc."
+  should: %s.organization == nil
+  should: %s.url          == "www.markmonitor.com"
+
+
+#registrant_contacts
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+#admin_contacts
+  should: %s raise_error(Whois::AttributeNotSupported)
+
+#technical_contacts
+  should: %s CLASS(array)
+  should: %s SIZE(1)
+  should: %s[0] CLASS(contact)
+  should: %s[0].type         == Whois::Record::Contact::TYPE_TECHNICAL
+  should: %s[0].name         == "DNS Admin"
+  should: %s[0].organization == "Google Inc."
+  should: %s[0].phone        == "+1.6506234000"
+  should: %s[0].fax          == "+1.6506188571"
+  should: %s[0].email        == "dns-admin@google.com"
+
+
+#nameservers
+  should: %s CLASS(array)
+  should: %s SIZE(4)
+  should: %s[0] CLASS(nameserver)
+  should: %s[0].name == "ns1.google.com"
+  should: %s[1] CLASS(nameserver)
+  should: %s[1].name == "ns2.google.com"
+  should: %s[2] CLASS(nameserver)
+  should: %s[2].name == "ns3.google.com"
+  should: %s[3] CLASS(nameserver)
+  should: %s[3].name == "ns4.google.com"
+
+
+#response_throttled?
+  should: %s == false

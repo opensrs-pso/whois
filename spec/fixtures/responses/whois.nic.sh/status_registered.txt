@@ -1,0 +1,15 @@
+
+Domain : google.sh
+Status : Live
+Expiry : 2014-06-06
+
+NS 1   : ns1.google.com
+NS 2   : ns2.google.com
+
+Owner  : DNS Administrator
+       : Google, Inc.
+       : 1600 Amphitheatre Parkway
+       : Mountain View
+       : CA
+       : USA
+
